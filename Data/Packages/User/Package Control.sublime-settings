@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoPEP8",
+		"BracketHighlighter",
+		"HTMLBeautify",
+		"IMESupport",
+		"Package Control",
+		"SublimeREPL",
+		"Theme - Spacegray"
+	]
+}
